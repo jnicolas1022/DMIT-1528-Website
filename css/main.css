@@ -46,7 +46,7 @@ h1, footer p { margin: 0; }
 header, footer
 {
   padding: 1.5rem 0;
-  background-color: orange;
+  background-color: #016a66;
   text-align: center;
 }
 main { padding: 2rem; }
